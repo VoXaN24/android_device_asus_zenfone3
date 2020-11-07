@@ -1,4 +1,4 @@
-Device Tree for ZenFone 3 (ZE520KL)
+Device Tree for ZenFone 3 (ZE520KL - Arrow 10)
 ===========================================
 
 The ZenFone 3 (codenamed _"ZE520KL"_) is a mid-range smartphone from ASUS.
